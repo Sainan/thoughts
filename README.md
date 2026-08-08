@@ -2,11 +2,9 @@
 
 You could call this a blog, but I call it a collection of thoughts.
 
-Thought | Date
---------|-----
-[What is the meaning of life?](2026-08-07-the-meaning-of-life.md) | 2026-08-07
-[Short Story: Once You Get There](2026-08-06-once-you-get-there.md) | 2026-08-06
-[Empowering idiots is bad, actually. (Re: AI)](2026-08-05-empowering-idiots-is-bad-actually.md) | 2026-08-05
+- [What is the meaning of life?](03-the-meaning-of-life.md)
+- [Short Story: Once You Get There](02-once-you-get-there.md)
+- [Empowering idiots is bad, actually. (Re: AI)](01-empowering-idiots-is-bad-actually.md)
 
 ## Why Github?
 

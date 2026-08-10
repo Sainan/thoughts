@@ -2,6 +2,7 @@
 
 You could call this a blog, but I call it a collection of thoughts.
 
+- [Software Copyright: A solution in search of a problem](06-software-copyright-a-solution-in-search-of-a-problem.md)
 - [You don't want equality.](05-you-dont-want-equality.md)
 - [Everything you say can be used to profile you](04-everything-you-say-can-be-used-to-profile-you.md)
 - [What is the meaning of life?](03-the-meaning-of-life.md)

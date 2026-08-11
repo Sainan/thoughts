@@ -2,6 +2,7 @@
 
 You could call this a blog, but I call it a collection of thoughts.
 
+- [Democracy is dead. Long live democracy.](07-democracy-is-dead-long-live-democracy.md)
 - [Software Copyright: A solution in search of a problem](06-software-copyright-a-solution-in-search-of-a-problem.md)
 - [You don't want equality.](05-you-dont-want-equality.md)
 - [Everything you say can be used to profile you](04-everything-you-say-can-be-used-to-profile-you.md)
